@@ -1,5 +1,5 @@
 
-# 🤖 Telegram AI Agent – Invoice Processor
+# 🤖 Telegram AI Agent – n8n Invoice Processor
 
 Ein n8n-Workflow, der einen Telegram-Bot als KI-Agenten betreibt. Der Bot kann:
 
